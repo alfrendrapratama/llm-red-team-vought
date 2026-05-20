@@ -14,7 +14,7 @@ The exercise is split into two phases:
 ## 📂 Repository Structure
 
 - `vought_red_team.ipynb` - The main Google Colab notebook containing the complete Red Team vs Blue Team simulation.
-- `requirements.txt` - The Python dependencies required to run the notebook.
+- `tech_stack.txt` - The Python dependencies required to run the notebook.
 - `README.md` - Project documentation.
 
 _(Note: No `.env` or `.gitignore` is required for this repository because the Gemini API key is securely managed via Google Colab's native `userdata.get()` secrets manager)._
