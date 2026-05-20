@@ -13,7 +13,7 @@ The exercise is split into two phases:
 
 ## 📂 Repository Structure
 
-- `vought_red_team_lab.ipynb` - The main Google Colab notebook containing the complete Red Team vs Blue Team simulation.
+- `vought_red_team.ipynb` - The main Google Colab notebook containing the complete Red Team vs Blue Team simulation.
 - `requirements.txt` - The Python dependencies required to run the notebook.
 - `README.md` - Project documentation.
 
@@ -46,6 +46,6 @@ By implementing strict **Context Isolation (XML delimiters)** and **Instruction 
 
 ## 🚀 How to Run
 
-1. Open the `vought_red_team_lab.ipynb` file in Google Colab.
+1. Open the `vought_red_team.ipynb` file in Google Colab.
 2. Add your own Gemini API Key to the Colab Secrets tab under the name `GEMINI_API_KEY`.
 3. Run all cells to execute the Red Team attacks and the Blue Team defenses.
