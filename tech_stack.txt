@@ -1,0 +1,5 @@
+## 🛠️ Technology Stack
+* **Language:** Python
+* **LLM Provider:** Google GenAI SDK (`gemini-3.1-flash-lite`)
+* **Vector Database (RAG):** ChromaDB
+* **Environment:** Google Colab
